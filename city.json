@@ -1,0 +1,37 @@
+[
+     {
+          "id": "1",
+          "name": "\u041c\u0438\u043d\u0441\u043a",
+          "country": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+          "is_big": true,
+          "people_count": 1996553
+     },
+     {
+          "id": "2",
+          "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+          "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "is_big": true,
+          "people_count": 13154708
+     },
+     {
+          "id": "3",
+          "name": "\u041f\u0430\u0440\u0438\u0436",
+          "country": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+          "is_big": true,
+          "people_count": 2102650
+     },
+     {
+          "id": "4",
+          "name": "\u041c\u0430\u0434\u0440\u0438\u0434",
+          "country": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+          "is_big": true,
+          "people_count": 3332035
+     },
+     {
+          "id": "5",
+          "name": "\u041a\u0438\u0435\u0432",
+          "country": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+          "is_big": true,
+          "people_count": 2950702
+     }
+]
